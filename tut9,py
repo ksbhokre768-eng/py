@@ -1,0 +1,13 @@
+#a= "1"
+# b ="2" print 12
+# this is string and we have to convert it into intiger so we use intiger
+a = 1
+b = 2
+print (a +  b )
+
+#  implicit type casting
+
+c = 3
+d = 1.9
+
+print(c+d)
