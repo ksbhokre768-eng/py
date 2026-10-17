@@ -24,4 +24,3 @@ if i==2:
             print(str[::-1] , end=" ")
 # i=int(input())
 # if i==1:
-#     print(a)
